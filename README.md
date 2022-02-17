@@ -1,15 +1,27 @@
 <div class="container">
-<div style="display: inline-flex">
-<img src="assets/1.png" width="150" height="150"/>
-    <div style="text-align: right">
-        <h1>Práctica 2 Algoritmos de Cifrado clasico</h1>
-    </div>
+<div style = "text-align: center;">
+    <img src="assets/1.png" width="250px" height="250px"/>
+    <h1 style = "color:#3dcc80; position: absolute; top: 200px; left:23%;">Práctica 2 Algoritmos de Cifrado clasico</h1>
 </div>
 
-<div 
-    style="font-family: 'Roboto Condensed',emoji;
-    font-size: 1em;">
-    <h2 class="prueba">Seguridad en redes</h2>
+<div>
+    <table style = "display: flex; justify-content: center; align-items: center; height: 100%">
+      <tr>
+        <td>
+          <h4 style="text-align: left; color: #e44428">
+            Baeza Ramirez Luis Gerardo<br><br>
+                @ThunderGer
+          </h4>
+        </td>
+        <td>
+          <h4 style="text-align: right; color: #e44428">
+            Seguridad en redes<br>
+                3TM6<br>
+                Cyntia Eugenia Enriquez Ortiz
+          </h4>
+        </td>
+      </tr> 
+    </table>
 </div>
 </div>
 
