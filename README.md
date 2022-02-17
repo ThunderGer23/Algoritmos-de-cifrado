@@ -1,16 +1,16 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <div class="container">
 <div style="text-align: center">
 
+<tr>
+    <th scope="col">
+        <img src="assets/1.png" width="150" height="150"/>
+    </th>
+    <th scope="row">
+        <h1>Práctica 2 Algoritmos de Cifrado clasico</h1>
+    </th>
+</tr>
+
 <div style="display: inline-flex">
-<img src="assets/1.png" width="150" height="150"/>
-<h1>Práctica 2 Algoritmos de Cifrado clasico</h1>
 </div>
 </div>
 
