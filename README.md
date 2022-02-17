@@ -1,23 +1,15 @@
 <div class="container">
-<div style="text-align: center">
-
-<tr>
-    <th scope="col">
-        <img src="assets/1.png" width="150" height="150"/>
-    </th>
-    <th scope="row">
-        <h1>Práctica 2 Algoritmos de Cifrado clasico</h1>
-    </th>
-</tr>
-
 <div style="display: inline-flex">
-</div>
+<img src="assets/1.png" width="150" height="150"/>
+    <div style="text-align: right">
+        <h1>Práctica 2 Algoritmos de Cifrado clasico</h1>
+    </div>
 </div>
 
 <div 
-    style="font-family: 'Redressed', cursive;
+    style="font-family: 'Roboto Condensed',emoji;
     font-size: 1em;">
-    <h2>Seguridad en redes</h2>
+    <h2 class="prueba">Seguridad en redes</h2>
 </div>
 </div>
 
