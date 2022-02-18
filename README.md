@@ -5,7 +5,7 @@
 </div>
 </div>
 
-| <img height="90" src="C:\Users\cuand\CLionProjects\Cifrado\assets\2.png" width="90"/>  | Gerardo Baeza Ramirez<br/>[@ThunderGer](https://www.instagram.com/thunderger/) | Seguridad en redes<br/>3TM6<br/>Cyntia Eugenia Enriquez Ortiz |
+| <img height="90" src="\assets\2.png" width="90"/>  | Gerardo Baeza Ramirez<br/>[@ThunderGer](https://www.instagram.com/thunderger/) | Seguridad en redes<br/>3TM6<br/>Cyntia Eugenia Enriquez Ortiz |
 |---|---------------------------------------------------------------------------|-----------------------------------------------------------|
 
 
