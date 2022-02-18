@@ -1,32 +1,15 @@
 <div class="container">
-<div style = "text-align: center;">
+<div style = "text-align: center; align-items: center;">
     <img src="assets/1.png" width="250px" height="250px"/>
-    <h1 style = "color:#3dcc80; position: absolute; top: 200px; left:23%;">Práctica 2 Algoritmos de Cifrado clasico</h1>
+    <h1>Práctica 2 Algoritmos de Cifrado clasico</h1>
+</div>
 </div>
 
-<div>
-    <table style = "display: flex; justify-content: center; align-items: center; height: 100%">
-      <tr>
-        <td>
-            <img src = "assets/2.png" width="90px" height="90px"/>
-        </td>
-        <td>
-          <h4 style="text-align: left; color: #e44428">
-            Baeza Ramirez Luis Gerardo<br><br>
-                @ThunderGer
-          </h4>
-        </td>
-        <td>
-          <h4 style="text-align: right; color: #e44428">
-            Seguridad en redes<br>
-                3TM6<br>
-                Cyntia Eugenia Enriquez Ortiz
-          </h4>
-        </td>
-      </tr> 
-    </table>
-</div>
-</div>
+| <img height="90" src="C:\Users\cuand\CLionProjects\Cifrado\assets\2.png" width="90"/>  | Gerardo Baeza Ramirez<br/>[@ThunderGer](https://www.instagram.com/thunderger/) | Seguridad en redes<br/>3TM6<br/>Cyntia Eugenia Enriquez Ortiz |
+|---|---------------------------------------------------------------------------|-----------------------------------------------------------|
+
+
+
 
 ## Comenzando 🚀
 
