@@ -8,14 +8,6 @@
 | <img height="90" src="assets/2.png" width="90"/> | Gerardo Baeza Ramirez<br/>[@ThunderGer](https://www.instagram.com/thunderger/) | Seguridad en redes<br/>3TM6<br/>Cyntia Eugenia Enriquez Ortiz |
 |--------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|
 
-
-- [x] GFM task list 1
-- [x] GFM task list 2
-- [ ] GFM task list 3
-    - [ ] GFM task list 3-1
-    - [ ] GFM task list 3-2
-    - [ ] GFM task list 3-3
-
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
