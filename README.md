@@ -8,6 +8,9 @@
     <table style = "display: flex; justify-content: center; align-items: center; height: 100%">
       <tr>
         <td>
+            <img src = "assets/2.png" width="90px" height="90px"/>
+        </td>
+        <td>
           <h4 style="text-align: left; color: #e44428">
             Baeza Ramirez Luis Gerardo<br><br>
                 @ThunderGer
