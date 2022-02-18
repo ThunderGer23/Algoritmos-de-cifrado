@@ -1,5 +1,5 @@
 <div class="container">
-<div style = "text-align: center; align-items: center;">
+<div style = "text-align: center;">
     <img src="assets/1.png" width="250px" height="250px"/>
     <h1>Práctica 2 Algoritmos de Cifrado clasico</h1>
 </div>
