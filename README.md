@@ -86,10 +86,10 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Autores ✒️
 
-|                                                              | Cyntia Eugenia Enriquez Ortiz                                                  | Seguridad en redes<br/>3TM6                           |
-|--------------------------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------|
-| <img height="190" src="assets/Arturo.webp" width="190"/>     | Arturo Toledo Aguado<br/>[@R2](https://github.com/ArturoEmmanuelToledoAguado)  | Trabajo inicial                                       |
-| <img height="190" src="assets/ThunderGer.webp" width="190"/> | Gerardo Baeza Ramirez<br/>[@ThunderGer](https://www.instagram.com/thunderger/) | Desarrollo de modulos <br>y refactorización de código |
+|                                                               | Cyntia Eugenia Enriquez Ortiz                                                  | Seguridad en redes<br/>3TM6                           |
+|---------------------------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------|
+| <img height="190" src="assets/Arturo.webp" width="190"/>      | Arturo Toledo Aguado<br/>[@R2](https://github.com/ArturoEmmanuelToledoAguado)  | Trabajo inicial                                       |
+| <img height="190" src="assets/ThunderGer1.webp" width="190"/> | Gerardo Baeza Ramirez<br/>[@ThunderGer](https://www.instagram.com/thunderger/) | Desarrollo de modulos <br>y refactorización de código |
 
 
 ## Licencia 📄
