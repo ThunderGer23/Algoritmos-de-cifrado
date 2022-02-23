@@ -5,8 +5,8 @@
 </div>
 </div>
 
-| <img height="90" src="assets/2.png" width="90"/> | Gerardo Baeza Ramirez<br/>[@ThunderGer](https://www.instagram.com/thunderger/) | Seguridad en redes<br/>3TM6<br/>Cyntia Eugenia Enriquez Ortiz |
-|--------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|
+| <img height="190" src="assets/Café.webp" width="190"/> | Gerardo Baeza Ramirez<br/>[@ThunderGer](https://www.instagram.com/thunderger/) | Seguridad en redes<br/>3TM6<br/>Cyntia Eugenia Enriquez Ortiz |
+|--------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|
 
 ## Comenzando 🚀
 
@@ -17,7 +17,7 @@ y ejecute las instrucciones git clone seguido de la URL del repositorio para rea
 git clone https://github.com/ThunderGer23/Algoritmos-de-cifrado
 ```
 
-### Pre-requisitos 📋
+## Pre-requisitos 📋
 
 _Se requiere tener instalada alguna versión de gcc (en caso de linux), o lenguaje C en caso de ser Windows.
  Así mismo se recomienda el uso de Dev C++, CLion, CodeBlocks o cualquier otro de su elección para modificar
@@ -27,47 +27,50 @@ _Se requiere tener instalada alguna versión de gcc (en caso de linux), o lengua
 * [CodeBlocks]()
 * [CLion]()
 
-### Instalación 🔧
+### Entorno 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+🚩🚩🚧_Para la correcta ejecución de este programa se recomienda utilizar la versión **C99** de Lenguaje C, siendo la más
+ practica y fácil de usar, así mismo es preferible que se ejecute en **Dev C++** o **CodeBlocks**._🚧🚩🚩
 
-_Dí cómo será ese paso_
+_Una vez dentro del entorno procedemos a realizar la compilación y creación del **.exe**._
 
-```
-Da un ejemplo
-```
-
-_Y repite_
+##Linux 🐧
+_En caso de estar trabajando desde un entorno linux, recuerde que puede realizar el siguiente comando para generarlo_
 
 ```
-hasta finalizar
+ gcc main.c -o codificador
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+_En donde la palabra **codificador** puede ser sustituida por cualquier otro nombre que deseé darle a su archivo
+ **.exe**_
 
-## Ejecutando las pruebas ⚙️
+##Windows 🎴
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+_Basta con abrir el archivo en Dev C o CodeBlocks y compilarlo, en mi caso se muestra de la siguiente forma_
 
-### Analice las pruebas end-to-end 🔩
+<img height="550" src="assets/Captura1.PNG" width="850"/>
 
-_Explica que verifican estas pruebas y por qué_
+## Resultados⚙️
 
-```
-Da un ejemplo
-```
+#_Resultados de cifrado Playfire_
+<img alt="Resultados del cifrado playfire" height="350" src="assets/Res1.png" title="Cifrado Playfaire" width="700"/>
 
-### Y las pruebas de estilo de codificación ⌨️
+<img alt="Resultados del cifrado playfire" height="350" src="assets/Res2.png" title="Cifrado Playfaire" width="700"/>
 
-_Explica que verifican estas pruebas y por qué_
+#_Resultados del cifrado vigenegere_
+<img alt="Resultados del cifrado playfire" height="300" src="assets/Res3.png" title="Cifrado Playfaire" width="700"/>
 
-```
-Da un ejemplo
-```
+<img alt="Resultados del cifrado playfire" height="270" src="assets/Res4.png" title="Cifrado Playfaire" width="700"/>
+
+
+#_Resultados del cifrado de transposición_
+<img alt="Resultados del cifrado playfire" height="350" src="assets/Res5.png" title="Cifrado Playfaire" width="700"/>
+
+<img alt="Resultados del cifrado playfire" height="330" src="assets/Res6.png" title="Cifrado Playfaire" width="700"/>
 
 ## Construido con 🛠️
 
-_Este proyecto a sido realizado con:_
+_Este proyecto ha sido realizado con:_
 
 * [CLion](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
 * [C23](https://maven.apache.org/) - Manejador de dependencias
@@ -83,9 +86,11 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Autores ✒️
 
-| <img height="150" src="assets/2.png" width="150"/> |
-|----------------------------------------------------|
-| **Luis Gerardo Baeza Ramirez** - *Trabajo Inicial* - [@ThunderGer](https://github.com/ThunderGer23)                               |
+|                                                              | Cyntia Eugenia Enriquez Ortiz                                                  | Seguridad en redes<br/>3TM6                           |
+|--------------------------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------|
+| <img height="190" src="assets/Arturo.webp" width="190"/>     | Arturo Toledo Aguado<br/>[@R2](https://github.com/ArturoEmmanuelToledoAguado)  | Trabajo inicial                                       |
+| <img height="190" src="assets/ThunderGer.webp" width="190"/> | Gerardo Baeza Ramirez<br/>[@ThunderGer](https://www.instagram.com/thunderger/) | Desarrollo de modulos <br>y refactorización de código |
+
 
 ## Licencia 📄
 
